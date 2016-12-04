@@ -21,7 +21,7 @@ class Routers extends React.Component {
         <Route path='release' component={Release} />
         <Route path='personal' component={Personal} />
         <Route path='sanbu/:title' component={Sanbu} />
-        <Route path='xiaoxiang/:title' component={Xiaoxiang} />
+        <Route path='xiaoxiang/:titles' component={Xiaoxiang} />
         </Route>
 
       </Router>
