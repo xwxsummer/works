@@ -1,11 +1,10 @@
 import React from 'react';
 
 class App extends React.Component {
-
   render () {
     return(
-      <div >
-      nihaodhd
+      <div>
+        {this.props.children}
       </div>
     )
   }

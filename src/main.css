@@ -1,0 +1,35 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.swiper-container {
+    width: 100%;
+    height: 100vh;
+}
+.swiper-wrapper{
+  width: 100%;
+  height: 100%;
+}
+.swiper-slide{
+  background-size: cover;
+  background-position: 50% 50%;
+}
+.slide1{
+  background-image: url(./images/u1.jpg);
+}
+.slide2{
+  background-image: url(./images/u3.jpg);
+}
+.slide3{
+  background-image: url(./images/u5.jpg);
+}
+.slide4{
+  background-image: url(./images/u8.jpg);
+}
+.slide5{
+  background-image: url(./images/u10.jpg);
+}
+.slide6{
+  background-image: url(./images/u13.jpg);
+}
