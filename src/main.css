@@ -33,3 +33,116 @@
 .slide6{
   background-image: url(./images/u13.jpg);
 }
+
+*{margin: 0;padding: 0}
+.xq-wrap{
+  width: 100%;
+  height: 100vh;
+}
+.xq-header{
+  background-image: url(./images/xq1.jpg);
+  background-size: cover;
+  height: 40vh;
+  color: #fff;
+}
+.xq-header p{
+  padding-left: 20px;
+  margin: 0;
+}
+.xq-header h3{
+  padding-left: 20px;
+}
+.biaoq{
+  padding-left: 20px;
+  padding-top: 20px;
+  font-size: 32px;
+}
+.content{
+  background-image: url(./images/xq5.png);
+  background-repeat: no-repeat;
+  background-size: contain;
+  color: #fff;
+  font-size: 20px;
+  height: 30px;
+}
+.xq-sec{
+  background-image: url(./images/xq2.png);
+  background-size: 100% 100%;
+  height: 50vh;
+}
+.xq-thr{
+  background-image: url(./images/xq1.jpg);
+  background-size: cover;
+  height: 40vh;
+  margin-bottom: 5px;
+}
+.xq-tho{
+  background-image: url(./images/xq3.jpg);
+  background-size: cover;
+  height: 40vh;
+  margin-bottom: 5px;
+
+}
+.xq-five{
+  background-image: url(./images/xq4.jpg);
+  background-size: cover;
+  height: 40vh;
+}
+.content1{
+  background-image: url(./images/xq5.png);
+  background-repeat: no-repeat;
+  background-size: contain;
+  color: #fff;
+  font-size: 20px;
+  height: 30px;
+}
+.introduce1{
+  background-image: url(./images/xq5.png);
+  background-repeat: no-repeat;
+  background-size: contain;
+  color: #fff;
+  font-size: 20px;
+  height: 30px;
+}
+.introduce2{
+  background-image: url(./images/xq5.png);
+  background-repeat: no-repeat;
+  background-size: contain;
+  color: #fff;
+  font-size: 20px;
+  height: 30px;
+}
+.imgs{
+  width: 30px;
+  height: 30px;
+  border-radius: 50%;
+  margin-top: 10px;
+}
+.bgc{
+  background-color: #ccc;
+  display: flex;
+  border-bottom: 2px solid #fff;
+}
+.colss{
+  margin-right: 20px;
+  margin-left: 20px;
+}
+.last-comment{
+  text-align: center;
+  font-size: 18px;
+  background-color: #ccc;
+  line-height: 10vh;
+  height: 10vh;
+}
+.sm-footer{
+  display: flex;
+  justify-content: space-around;
+  height: 10vh;
+  background-color: #000;
+
+  line-height: 10vh;
+  font-size: 20px;
+}
+.sm-footer a{
+    color: #fff;
+}
