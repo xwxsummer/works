@@ -1,0 +1,43 @@
+.container-big {
+    width: 100%;
+    height: 26vh;
+}
+.container-big .slide1{
+  background-image: url(./images/u62.jpg);
+}
+.container-big .slide2{
+  background-image: url(./images/u65.jpg);
+}
+.container-big .slide3{
+  background-image: url(./images/u68.jpg);
+}
+
+.container-little{
+  width: 100%;
+  height: 20vh;
+  margin: 10px 0;
+}
+.container-little .slide1{
+  background-image: url(./images/u97_01.jpg);
+}
+.container-little .slide2{
+  background-image: url(./images/u97_03.jpg);
+}
+.container-little .slide3{
+  background-image: url(./images/u97_05.jpg);
+}
+.container-little .slide4{
+  background-image: url(./images/1.jpg);
+}
+.container-little .slide5{
+  background-image: url(./images/2.jpg);
+}
+.container-little .slide6{
+  background-image: url(./images/3.jpg);
+}
+.left-btn,.right-btn{
+  flex-grow:1;
+  font-size:20px;
+  text-align: center;
+  line-height: 2.0;
+}

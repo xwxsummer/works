@@ -1,6 +1,6 @@
 import React, { PropTypes } from 'react';
 import Swiper from 'swiper';
- 
+
 import img1 from '../images/u1.jpg';
 import img2 from '../images/u3.jpg';
 import img3 from '../images/u5.jpg';
